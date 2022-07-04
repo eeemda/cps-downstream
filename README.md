@@ -13,7 +13,7 @@ For stata, you will have to change the absolute paths at the beginning of each s
 # Data Access
 Please email me if gaining access to non-public data is not straightforward. I should be able to point to locations where this is available with requests now if the information below is out of date.
 
-* For the data to reproduce the tables in `data/scripts/08_analysis_academics.do`, please contact [Karthik Muralidhara](mailto:kamurali@ucsd.edu). Data is taken from ["The Aggregate Effect of School Choice: Evidence from a Two-Stage Experiment in India"](https://doi.org/10.1093/qje/qjv013) published in _The Quarterly Journal of Economics_
+* For the data to reproduce the tables in `data/scripts/08_analysis_academics.do`, please contact [Karthik Muralidharan](mailto:kamurali@ucsd.edu). Data is taken from ["The Aggregate Effect of School Choice: Evidence from a Two-Stage Experiment in India"](https://doi.org/10.1093/qje/qjv013) published in _The Quarterly Journal of Economics_
 * For the data to reproduce the table in `data/scripts/04_analysis_downstreamexperiment.do/sample_comparison.csv`, you will need access to files that are not mine to share:
     1. The census rural directory that matches the 2001 and 2011 Indian Census. This was initially downloaded from [Sumit Mishra's website](https://sumitrmishra.github.io/), but is unfortunately no longer available there. Fortunately, this has now been replaced by the [Indian Government's Local Government Directory](https://lgdirectory.gov.in/).
     2. The raw census data. Again, this is publicly available from the [Indian Government's Local Government Directory](https://lgdirectory.gov.in/).
