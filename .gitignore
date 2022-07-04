@@ -1,0 +1,28 @@
+*.Rhistory
+*.DS_Store
+*.sublime-*
+*.RProj.user*
+.Rproj.user
+*make_index_gr.do
+
+# Tex output
+*.tex
+
+# Data files
+*.dta
+*.csv
+*.pdf
+*.dbf
+*.prj
+*.shp
+*.shx
+
+# Latex files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
