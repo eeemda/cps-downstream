@@ -1,0 +1,54 @@
+\frenchspacing
+\usepackage{authblk}
+\usepackage{times}
+\usepackage{mathdesign}
+\usepackage[T1]{fontenc}
+\usepackage[protrusion=true]{microtype} %Allows for the protusion of punctuation marks to allow for cleaner justification of text
+\usepackage{fullpage}
+\usepackage{setspace}
+
+\usepackage{natbib}
+\setlength\bibsep{0cm}
+
+\usepackage[fleqn]{amsmath}
+
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{rotating}
+\usepackage{longtable}
+\usepackage[flushleft]{threeparttable}
+\usepackage{threeparttablex}
+\usepackage{booktabs}
+\usepackage{epsfig}
+\usepackage{epstopdf}
+\usepackage{lscape}
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage{xcolor}
+\usepackage{subfigure}
+\usepackage{tfrupee}
+\usepackage[stable]{footmisc}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{nameref}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!80!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black},
+    breaklinks=true
+}
+\urlstyle{same}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{floatrow}
+\floatsetup[table]{font=scriptsize, capposition=top}
+\floatsetup[figure]{capposition=top}
+
+% Allow line breaks with \\ in specialcells
+	\newcommand{\specialcell}[2][c]{%
+	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+%Reference: http://www.jwe.cc/2012/03/stata-latex-tables-estout/ Accessed 14-09-28
+
+\newcommand{\ed}[1]{\color{blue}[Re-check: #1]\color{black}}
