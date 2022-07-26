@@ -1,4 +1,4 @@
-This repository provides data, replication code, and a latex manuscript to replicate "The Lessons Private Schools Teach: Using a Field Experiment to Understand the Effects of Private Services on Political Behavior" conditionally accepted at _Comparative Political Studies_.
+This repository provides data, replication code, and a latex manuscript to replicate "The Lessons Private Schools Teach: Using a Field Experiment to Understand the Effects of Private Services on Political Behavior" accepted at _Comparative Political Studies_.
 
 # Contact
 For any questions regarding the replication code and data, please contact [Emmerich Davies](mailto:emmerich.davies@gmail.com)
